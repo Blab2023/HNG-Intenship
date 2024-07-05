@@ -35,6 +35,8 @@ The outlier score for each party was calculated as the absolute deviation of vot
 ### Top 3 Outliers for Each Party
 The top three polling units with the highest outlier scores for each party were identified and visualized on a map. The outliers were annotated with their polling unit names for clarity as shown below:
 
+![Party Outliers](election_outliers.png)
+
 ### Conclusion
 This analysis highlights the importance of geospatial techniques in ensuring the integrity of election results. The identification of significant outliers and consistent outliers across parties (though some way more than others — indicating higher potential for rigging than the others) provides valuable insights for further investigation and potential corrective measures.
 
